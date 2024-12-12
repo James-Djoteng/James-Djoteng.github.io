@@ -1,2 +1,2 @@
 # James-Djoteng.github.io
-Coursera project
+Repository for exrercise on coursera to build a website
